@@ -2,8 +2,8 @@
     class Settings
     {        
         public static $appTenantDomainName = 'kokaan88@hotmail.onmicrosoft.com';
-        public static $appPrincipalId = 'eae41fc8-ba86-404b-8475-5b1e50fec97a';    
-        public static $password = '8tOygJT8I7utd5sjJJjrOnS0JjLRUnUtTvU7EBGbPCA=';
+        public static $appPrincipalId = '2d5e6111-27b1-4cb5-94c0-d2d9309a8460';    
+        public static $password = 'YaQHA2akTgI0wIW1KFDRD5OIOeDNkKNHh1XI21FDKW8=';
         public static $apiVersion = "api-version=2013-11-08";
     }
 ?>
